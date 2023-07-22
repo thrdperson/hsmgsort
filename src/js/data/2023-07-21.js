@@ -17,6 +17,10 @@ dataSet[dataSetVersion].characterData = [
     img: "0YT7QlS.png",
   },
   {
+    name: "Daiyousei",
+    img: "NWlZud3.png",
+  },
+  {
     name: "Carnelian",
     img: "NWlZud3.png",
   },
