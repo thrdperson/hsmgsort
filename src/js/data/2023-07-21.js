@@ -22,7 +22,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Carnelian",
-    img: "NWlZud3.png",
+    img: "MgzqjFK.png",
   },
   {
     name: "Lazu",
